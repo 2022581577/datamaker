@@ -1,0 +1,7 @@
+数据生成工具，暂时能生成erlang文件，对应excel格式在excel内
+环境：python2.7
+插件：
+    excel插件:xlrd
+    ui插件：PyQt4
+    exe生成工具：py2exe
+
